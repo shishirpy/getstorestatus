@@ -1,8 +1,17 @@
 # Welcome
 
-Finding the stores with the supplies you want is a sure way to avoiding exposure to Covid-19. I started this project so that people can help each other in these times.
+Finding stores with the supplies you want can help avoid exposure to Covid-19. Use [getstorestatus](https://getstorestatus.com) to help one another in these difficult times.
 
 
 ## Aim
 
-The aim is to provide people with a platform where they can view inventory available at stores. I created this [mastodon instance](https://joinmastodon.org/) for that purpose. One can add photos of store aisles they visit. People who want to visit the stores near them, they can search for stores near them and determine which store they would like to visit.
+The aim is to provide a platform where you can:
+
+* `Give updates` : You can post photos of store aisles you visit.
+* `Receive updates`: Check for updates before you visit stores.
+
+
+## Public Timeline
+
+If you do not wish to create an account you can still view the [public posts](https://getstorestatus.com/public).
+
