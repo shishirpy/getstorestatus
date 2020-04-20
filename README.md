@@ -17,7 +17,7 @@ If you do not wish to create an account you can still view the [public posts](ht
 
 <iframe src="https://getstorestatus.com/@shishirpy/103999740295814209/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://getstorestatus.com/embed.js" async="async"></script>
 
-<iframe src="https://getstorestatus.com/@shishirpy/103999765766639404/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://getstorestatus.com/embed.js" async="async"></script>
+<iframe src="https://getstorestatus.com/@sneha/103999733925458606/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://getstorestatus.com/embed.js" async="async"></script>
 
 
 
